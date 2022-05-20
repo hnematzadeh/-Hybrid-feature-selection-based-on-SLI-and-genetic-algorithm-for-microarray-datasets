@@ -11,4 +11,4 @@ The initial quantification of population vectors plays an important role in GA m
  
 ![image](https://user-images.githubusercontent.com/45941996/169539976-2782cd63-634f-44b2-8203-76dcc33e25de.png)
 
-
+Fig1. The implementation framework.
